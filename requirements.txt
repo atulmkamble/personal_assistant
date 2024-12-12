@@ -1,0 +1,11 @@
+langchain-core
+langchain
+langchain-ollama
+langfuse
+langgraph
+langchain_groq
+loguru
+python-dotenv
+fastapi
+rich
+uvicorn
